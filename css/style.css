@@ -1,0 +1,29 @@
+h2,h1{
+    background-color: darkcyan;
+    color: white;
+    margin: 30px auto;
+    width: 50%;
+    text-align: center;
+    padding: 15px;
+}
+h1{
+    background-color: darkslategray;
+}
+.demo{
+    margin: auto;
+    width: 50%;
+    background-color:chocolate;
+    color: white;
+    padding: 15px;
+}
+#intro-example {
+    height: 400px;
+  }
+
+  /* Height for devices larger than 992px */
+  @media (min-width: 992px) {
+    #intro-example {
+      height: 600px;
+    }
+  }
+
